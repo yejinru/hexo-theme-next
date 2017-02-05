@@ -37,10 +37,10 @@ seo: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories
-  #about: /about
+  categories: /categories
   archives: /archives
   tags: /tags
+  about: /about
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -134,8 +134,8 @@ social:
   GitHub: https://github.com/yejinru
   微博: http://weibo.com/yejinru
   知乎: http://www.zhihu.com/people/yejinru
-  Facebook: https://twitter.com/yejinru
-  Twitter: https://www.facebook.com/yejinru
+  Twitter: https://twitter.com/yejinru
+  Facebook: https://www.facebook.com/yejinru
 
 
 

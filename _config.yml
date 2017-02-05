@@ -69,8 +69,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -184,7 +184,7 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggler.
-  display: post
+  display: always
   #display: always
   #display: hide
   #display: remove
@@ -267,10 +267,10 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: dac7c910c332057b64b03745998b9232
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: yejinru
 
 # Disqus
 #disqus_shortname:

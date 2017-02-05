@@ -63,16 +63,14 @@ menu_icons:
   commonweal: heartbeat
 
 
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -132,8 +130,13 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  GitHub: https://github.com/yejinru
+  微博: http://weibo.com/yejinru
+  知乎: http://www.zhihu.com/people/yejinru
+  Facebook: https://twitter.com/yejinru
+  Twitter: https://www.facebook.com/yejinru
+
 
 
 # Social Links Icons
@@ -147,7 +150,7 @@ social_icons:
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  Weibo: weibo
+  微博: weibo
 
 
 # Sidebar Avatar
@@ -191,9 +194,10 @@ sidebar:
 #links_title: Links
 #links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
-
+# 友链
+links_title: Links
+links:
+  ay27: http://www.ay27.com/
 
 # ---------------------------------------------------------------
 # Post Settings
@@ -254,7 +258,7 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
+  enable: true
   per_page: false
   cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 

@@ -271,10 +271,10 @@ mathjax:
 baidu_analytics: dac7c910c332057b64b03745998b9232
 
 # Duoshuo ShortName
-duoshuo_shortname: yejinru
+#duoshuo_shortname: yejinru
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: yejinru
 
 # Hypercomments
 #hypercomments_id:
